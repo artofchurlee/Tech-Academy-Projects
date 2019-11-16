@@ -1,0 +1,12 @@
+C:\Users\XxLit\Documents\GitHub\Tech-Academy-Projects\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\bin\Debug\CodeFirstNewDatabaseSample.exe.config
+C:\Users\XxLit\Documents\GitHub\Tech-Academy-Projects\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\bin\Debug\CodeFirstNewDatabaseSample.exe
+C:\Users\XxLit\Documents\GitHub\Tech-Academy-Projects\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\bin\Debug\CodeFirstNewDatabaseSample.pdb
+C:\Users\XxLit\Documents\GitHub\Tech-Academy-Projects\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\bin\Debug\EntityFramework.dll
+C:\Users\XxLit\Documents\GitHub\Tech-Academy-Projects\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\XxLit\Documents\GitHub\Tech-Academy-Projects\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\bin\Debug\EntityFramework.xml
+C:\Users\XxLit\Documents\GitHub\Tech-Academy-Projects\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\XxLit\Documents\GitHub\Tech-Academy-Projects\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.csprojAssemblyReference.cache
+C:\Users\XxLit\Documents\GitHub\Tech-Academy-Projects\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.csproj.CoreCompileInputs.cache
+C:\Users\XxLit\Documents\GitHub\Tech-Academy-Projects\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.csproj.CopyComplete
+C:\Users\XxLit\Documents\GitHub\Tech-Academy-Projects\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.exe
+C:\Users\XxLit\Documents\GitHub\Tech-Academy-Projects\CodeFirstNewDatabaseSample\CodeFirstNewDatabaseSample\obj\Debug\CodeFirstNewDatabaseSample.pdb
